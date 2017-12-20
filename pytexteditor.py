@@ -1,5 +1,3 @@
-from tkinter import filedialog
-from tkinter import messagebox
 from tkinter import *
 import tkinter as tk
 import tkinter.scrolledtext as tkst  # because only tkinter doesn't give scrollable text
