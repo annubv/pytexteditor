@@ -27,7 +27,7 @@ def exitc():
         root.destroy()
 
 def aboutc():
-    label=messagebox.showinfo("About","PytextEditor \n Version 1 \n Developed by Anubhav Singh")
+    label=messagebox.showinfo("About","PytextEditor \nVersion 1 \nA simple text editor made using python3 and tkinter GUI \nDeveloped by Anubhav Singh")
 
 # to create toplevel menu
 menubar = Menu(root)
